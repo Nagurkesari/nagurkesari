@@ -46,7 +46,7 @@
 </head>
 <body>
 <div>
-        <h1 style="color:white">Welcome to NagurInfotech</h1>
+        <h1 style="color:black">Welcome to NagurInfotech</h1>
         
     </div>
 </body>
